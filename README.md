@@ -2,6 +2,8 @@
 
 Implementing a Pytorch program that learns to read business reviews in text format and predict a rating (positive or negative) associated with each review, as well as a business category (0=Restaurants, 1=Shopping, 2=Home Services, 3=Health & Medical, 4=Automotive). 
 
+Please read the description below before checking out the report PDFs as well as the Python scripts.
+
 The report outlines how my program works and explains design decisions.
 
 How I selected your architecture, algorithms, and enhancements. How I chose your cost function and optimiser. How I determined the dimensionality of the word vectors, metaparameter values, and any data preprocessing that I did or did not use. How I employed the validation set, and any additional steps to avoid overfitting not otherwise discussed. My task was to complete the file student.py in such a way that it can be run in conjunction with a3main.py by typing:
