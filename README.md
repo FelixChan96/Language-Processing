@@ -1,6 +1,6 @@
 # Language Processing Sample Work 
 
-Please read the description below before checking out the report PDFs as well as the Python scripts.
+Please read the description below of implementation and training of neural network models before checking out the report PDFs as well as the Python scripts.
 
 **Description of tasks**
 
